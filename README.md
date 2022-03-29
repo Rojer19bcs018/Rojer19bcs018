@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Rojer19bcs018
-- 👀 I’m interested in java and python programming
+- 👋 Hi, I’m Rojer
+- 👀 My Area of interest is web app developing and data analysis
 - 🌱 I’m currently a Under Graduate(BE-CSE)
 -  Email:rojerking001@gmail.com
 
